@@ -1,0 +1,23 @@
+.episodes{
+    flex-direction: row !important;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 80%;
+    margin: auto;
+}
+.accardeon-episodes{
+    background-color: #1C1C22;
+    border-radius: 15px;
+    border-bottom: 1px solid #ddd;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.accardeon-episodes .accardeon-episode{
+    flex-direction: row !important;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+}

@@ -1,0 +1,11 @@
+.movies-img-home {
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all .4s ease-out;
+    text-decoration: none !important;
+}
+
+.movies-img-home:hover {
+    cursor: pointer;
+    opacity: 0.6;
+}

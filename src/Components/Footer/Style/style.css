@@ -1,0 +1,21 @@
+.footer{
+    background: rgb(248,249,250);
+    width: 100%;
+    padding: 40px;
+}
+.part-1-of-footer{
+    flex-direction: row !important;
+    align-items: center;
+    width: 70% !important;
+    gap: 80px;
+}
+.netflix-logo{
+    width: 220px;
+    margin: auto;
+}
+.about-site-in-footer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 30%;
+}
